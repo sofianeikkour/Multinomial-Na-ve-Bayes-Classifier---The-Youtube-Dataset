@@ -1,6 +1,6 @@
 # Multinomial-Naïve-Bayes-Classifier---The-Youtube-Dataset
 
-**Context and Objective:** In this use case, we will explore a database extracted from the Youtube website. This database will be used to build multinomial Naïve Bayes classifier capable of filtering spam messages and ham messages. 
+**Context and Objective:** In this use case, we will explore a database extracted from the Youtube website. This database will be used to build a multinomial Naïve Bayes classifier capable of filtering spam messages and ham messages. 
 
 **Datasets:**  
 The database contains five CSV files, each with a set of comments from five Youtube videos. Each of the CSV files contains the following columns:  
